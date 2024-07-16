@@ -1,0 +1,24 @@
+.cardss{
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+
+    align-items: center;
+   
+}
+.cards{
+    border: solid;
+    background: red;
+    padding: 20px;
+
+    border-radius: 50px;
+}
+.img{
+    border-radius:50pc;
+    width: 200px;
+    height: 200px;
+}
+.in{
+    height: 30px;
+    width: 30px;
+}
